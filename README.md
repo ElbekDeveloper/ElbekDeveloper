@@ -15,7 +15,8 @@ I can help you out with:
 
 Be sure, because you get the value that you pay for. Don't hesitate to negotiate 100% moneyback in case the result I offer you does not meet your expectations.
 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=ElbekDeveloper)
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=ElbekDeveloper&show_icons=true&theme=dark)
+
 
 Have a look at my portfolio items in this profile. Once you feel we are a good fit, contact me 💬.
 
