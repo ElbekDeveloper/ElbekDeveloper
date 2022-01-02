@@ -21,5 +21,5 @@ Have a look at my portfolio items in this profile. Once you feel we are a good f
 
 Looking forward to hearing from you.
 
-[<img align="left" alt="Elbek Normurodov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/elbek-normurodov-58712017a/)   
+[Linkedin](https://www.linkedin.com/in/elbek-normurodov-58712017a/) | [Telegram](https://t.me/ElbekDeveloper)   
  
